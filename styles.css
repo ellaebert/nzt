@@ -1,15 +1,47 @@
 body {
-    background-color: antiquewhite;
+    background-color: rgb(12, 86, 92);
 }
 
 
 .titel {
-    color: purple;
+    color: rgb(172, 113, 20);
     text-align: center;
-    font-size: 70px;
+    font-size: 99px;
 }
 
 .bodyimage {
-    width: 500px;
+    width: 79px;
     height: auto;
+    
+    top: 55555555555px;
+    right: 77px;
+}
+
+p {
+    text-align: center;
+    font-size: 33px;
+}
+
+.byimage {
+    margin: auto;
+    display: block;  
+}
+
+.hintergrund {
+    background-color: lightgrey
+}
+
+.left {        
+ text-align: left  
+}
+.right {
+    text-align: right 
+}
+
+.flexbox {
+    display: flex;
+    justify-content: space-between;
+}
+.byuimage {
+text-align: right;
 }
