@@ -12,9 +12,10 @@ body {
 .bodyimage {
     width: 79px;
     height: auto;
-    
-    top: 55555555555px;
-    right: 77px;
+    margin: right;
+    position: absolute;
+    top: 80px;
+    right: 72px;
 }
 
 p {
@@ -44,4 +45,12 @@ p {
 }
 .byuimage {
 text-align: right;
+}
+
+.links {
+ text-align: left 
+}
+
+.center-image {
+    align-items: center;
 }
